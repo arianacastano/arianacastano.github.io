@@ -1,0 +1,259 @@
+p{
+    color: antiquewhite;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+img{
+    height: 300px;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+div{
+    color: antiquewhite;
+}
+
+
+#foto-cama1 {
+    opacity: 100%;
+    transition: opacity 1s;
+}
+
+#foto-cama1:hover {
+    opacity: 50%
+}
+
+#foto-cama2 {
+    opacity: 100%;
+    transition: opacity 1s;
+}
+
+#foto-cama2:hover {
+    opacity: 50%
+}
+
+#foto-cama3 {
+    opacity: 100%;
+    transition: opacity 1s;
+}
+
+#foto-cama3:hover {
+    opacity: 50%
+}
+
+#foto-cama4 {
+    opacity: 100%;
+    transition: opacity 1s;
+}
+
+#foto-cama4:hover {
+    opacity: 50%
+}
+
+#foto-cama5 {
+    opacity: 100%;
+    transition: opacity 1s;
+}
+
+#foto-cama5:hover {
+    opacity: 50%
+}
+
+.foto-deco1 {
+    opacity: 100%;
+    transition: 1s;
+}
+
+.foto-deco1:hover {
+    opacity: 50%;
+}
+
+.foto-deco2 {
+    opacity: 100%;
+    transition: 1s;
+}
+
+.foto-deco2:hover {
+    opacity: 50%;
+}
+
+.foto-deco3 {
+    opacity: 100%;
+    transition: 1s;
+}
+
+.foto-deco3:hover {
+    opacity: 50%;
+}
+
+.foto-deco4 {
+    opacity: 100%;
+    transition: 1s;
+}
+
+.foto-deco4:hover {
+    opacity: 50%;
+}
+
+.foto-deco5 {
+    opacity: 100%;
+    transition: 1s;
+}
+
+.foto-deco5:hover {
+    opacity: 50%;
+}
+
+.foto-deco6 {
+    opacity: 100%;
+    transition: 1s;
+}
+
+.foto-deco6:hover {
+    opacity: 50%;
+}
+
+body{
+    background-color: rgb(150, 136, 74);
+    background-position: center; 
+    background-size: cover;
+}
+
+.foto-deco7 {
+    opacity: 100%;
+    transition: 1s;
+}
+
+.foto-deco7:hover {
+    opacity: 50%;
+}
+
+.foto-agregado1 {
+    opacity: 100%;
+    transition: 1s;
+}
+
+.foto-agregado1:hover {
+    opacity: 50%;
+}
+
+.foto-agregado2 {
+    opacity: 100%;
+    transition: 1s;
+}
+
+.foto-agregado2:hover {
+    opacity: 50%;
+}
+
+.foto-agregado3 {
+    opacity: 100%;
+    transition: 1s;
+}
+
+.foto-agregado3:hover {
+    opacity: 50%;
+}
+
+.foto-agregado4 {
+    opacity: 100%;
+    transition: 1s;
+}
+
+.foto-agregado4:hover {
+    opacity: 50%;
+}
+
+.foto-agregado5 {
+    opacity: 100%; transition: 1s;
+}
+
+.foto-agregado5:hover {
+    opacity: 50%;
+}
+
+.foto-agregado6 {
+    opacity: 100%; transition: 1s;
+}
+
+.foto-agregado6:hover {
+    opacity: 50%;
+}
+
+.foto-color1 {
+    opacity: 100%; transition: 1s;
+}
+
+.foto-color1:hover {
+    opacity: 50%;
+}
+
+.foto-color2 {
+    opacity: 100%; transition: 1s;
+}
+
+.foto-color2:hover {
+    opacity: 50%;
+}
+
+.foto-color3 {
+    opacity: 100%; transition: 1s; 
+}
+
+.foto-color3:hover {
+    opacity: 50%;
+}
+
+.foto-color4 {
+    opacity: 100%; transition: 1s;
+}
+
+.foto-color4:hover {
+    opacity: 50%;
+}
+
+.foto-color5 {
+    opacity: 100%; transition: 1s;
+}
+
+.foto-color5:hover {
+    opacity: 50%;
+}
+
+.foto-color6 {
+    opacity: 100%; transition: 1s;
+}
+
+.foto-color6:hover {
+    opacity: 50%;
+}
+
+.foto-color7 {
+    opacity: 100%; transition: 1s;
+}
+
+.foto-color7:hover {
+    opacity: 50%;
+}
+
+button {
+    background-color: transparent;
+    font-weight: bold;
+    color: antiquewhite;
+    border-color: beige;
+    font-size: 1rem;
+    padding: 1rem 1.5rem;
+    border: 2px solid url("Fondocama2.jpg"); 
+    border-radius: .5rem;
+    cursor: pointer;
+    transition: all 1s ease;
+    box-shadow: .5rem .5rem 1rem #ccc;  
+    margin-bottom: 1cm;
+    margin-right: 1.5cm;
+    margin-left: 1.5cm;
+}
